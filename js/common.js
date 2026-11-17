@@ -2,7 +2,7 @@
 
 export const CONTACT = {
   whatsapp: '+593985210501',
-  email: 'mrmickdesign@gmail.com',
+  email: 'info@fly.mrmickwhite.com',
   city: 'Salinas, Santa Elena',
   country: 'Ecuador',
 };
